@@ -13,67 +13,6 @@
 </html></richcontent>
 <node CREATED="1565125928308" ID="ID_1816690578" MODIFIED="1565126109694" POSITION="right" TEXT="Conceitos B&#xe1;sicos">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
-<node COLOR="#006699" CREATED="1565125938962" ID="ID_1660588652" MODIFIED="1565278244431" STYLE="bubble">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &gt; &#201; um dos dois protocolos chave do TCP/IP;
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; Simples, n&#227;o confi&#225;vel e n&#227;o executa opera&#231;&#245;es de detec&#231;&#227;o e recupera&#231;&#227;o de erros, ficando a cargo das camadas superiores;<br /><br />&gt; Utiliza como crit&#233;rio de entrega o m&#233;todo <b><u>melhor esfor&#231;o </u></b>
-    </p>
-    <p>
-      <br />
-      
-    </p>
-    <p>
-      &gt; Cabe&#231;alho de 20 &#224; 60 Bytes;
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; O datagrama IP &#233; fragmentado
-    </p>
-  </body>
-</html></richcontent>
-</node>
-<node COLOR="#006699" CREATED="1566248565352" ID="ID_1963405326" MODIFIED="1566248699612">
-<richcontent TYPE="NODE"><html>
-  <head>
-    
-  </head>
-  <body>
-    <p>
-      &gt; N&#227;o h&#225; garantia de entrega de pacotes
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; nem de crit&#233;rios relacionados &#224; n&#227;o duplica&#231;&#227;o, adultera&#231;&#227;o<br />dos dados ou sequenciamento dos datagramas;
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      &gt; Por essa raz&#227;o o IP n&#227;o apresenta um desempenho determin&#237;stico;
-    </p>
-    <p>
-      
-    </p>
-    <p>
-      (Prof. Andr&#233; Castro - TEC Concursos)
-    </p>
-  </body>
-</html></richcontent>
-</node>
 </node>
 <node CREATED="1565127331714" ID="ID_445331668" LINK="Cabecalho%20IPv4.mm" MODIFIED="1565787526052" POSITION="right" TEXT="Cabe&#xe7;alho IPv4">
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>

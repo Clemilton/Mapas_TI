@@ -286,8 +286,7 @@
       &gt; dispositivos m&#243;veis e
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -301,8 +300,7 @@
       <font size="2">&gt; sistemas embarcados</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node BACKGROUND_COLOR="#feeafe" COLOR="#535353" CREATED="1578170120653" ID="ID_509096023" MODIFIED="1578170215991">
@@ -756,6 +754,24 @@
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
+<node CREATED="1578867773817" ID="ID_33939761" MODIFIED="1578867793394">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pode ter arquivos .txt,
+    </p>
+    <p>
+      .doc, .gif, etc...
+    </p>
+  </body>
+</html>
+</richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
 </node>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578171295356" ID="ID_803393452" MODIFIED="1578171552756">
 <richcontent TYPE="NODE"><html>
@@ -820,8 +836,7 @@
       web coporativa
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1211,8 +1226,7 @@
       modificada por 2 threads
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
