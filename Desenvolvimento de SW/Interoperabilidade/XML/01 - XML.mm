@@ -13,8 +13,7 @@
       Caracter&#237;sticas<br />Gerais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1578756289718" ID="ID_1722858448" MODIFIED="1578766849054" VSHIFT="19">
@@ -27,8 +26,7 @@
       SIGLA
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578756295517" ID="ID_1671732157" MODIFIED="1578766849054">
 <richcontent TYPE="NODE"><html>
@@ -40,8 +38,7 @@
       eXtensible Markup Language
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -55,8 +52,7 @@
       Linguagem de Marca&#231;&#227;o Extens&#237;vel
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -71,8 +67,7 @@
       &#233; EXTENS&#205;VEL
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578756527718" ID="ID_1375778119" MODIFIED="1578766849054">
 <richcontent TYPE="NODE"><html>
@@ -84,8 +79,7 @@
       criar marcadores pr&#243;prios
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -103,8 +97,7 @@
       com METADADOS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578756577382" ID="ID_906471027" MODIFIED="1578766849054">
 <richcontent TYPE="NODE"><html>
@@ -116,8 +109,7 @@
       dados que explicam dados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -132,8 +124,7 @@
       TEM HIERARQUIA
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -147,8 +138,7 @@
       2 vers&#245;es
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578757056440" ID="ID_386468780" MODIFIED="1578766849054">
 <richcontent TYPE="NODE"><html>
@@ -160,8 +150,7 @@
       1.0 (1998)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -175,8 +164,7 @@
       1.1 (2008)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -191,8 +179,7 @@
       pode usar CSS
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1578757198127" ID="ID_1706809911" MODIFIED="1578766849055">
@@ -205,8 +192,7 @@
       pass&#237;vel de valida&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578757202641" ID="ID_671123608" MODIFIED="1578766849055">
 <richcontent TYPE="NODE"><html>
@@ -221,8 +207,7 @@
       v&#225;lido
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -236,8 +221,7 @@
       DTD (<i>Document Type Definition</i>)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -251,8 +235,7 @@
       <b>XML&#160;Schema</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -267,8 +250,7 @@
       independente de plataforma
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <icon BUILTIN="messagebox_warning"/>
 </node>
@@ -343,19 +325,19 @@
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1578756925447" ID="ID_1588256998" MODIFIED="1578766843579">
+<node CREATED="1578756925447" ID="ID_1588256998" MODIFIED="1578954042625">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
+    <p style="text-align: center">
       pode ter erros de sintaxe
     </p>
-    <p>
+    <p style="text-align: center">
       &#11021;
     </p>
-    <p>
+    <p style="text-align: center">
       navegador &quot;conserta&quot;
     </p>
   </body>
@@ -390,8 +372,7 @@
       de dados
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font BOLD="true" NAME="SansSerif" SIZE="10"/>
 </node>
@@ -424,8 +405,7 @@
       <font size="2">de marca&#231;&#227;o</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1578756891759" ID="ID_51284032" MODIFIED="1578766843579">
@@ -606,8 +586,7 @@
       Entidades
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578764170943" ID="ID_1962812638" MODIFIED="1578764707959">
@@ -620,24 +599,22 @@
       Unidade de armazenamento<br />virtual
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
-<node CREATED="1578764203096" ID="ID_924562515" MODIFIED="1578764298182">
+<node CREATED="1578764203096" ID="ID_924562515" MODIFIED="1578954100994">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      tipo de atalho p/ conte&#250;dos
+      atalho p/ conte&#250;dos
     </p>
     <p style="text-align: center">
       repetidos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -651,8 +628,7 @@
       por Refer&#234;ncia
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -667,58 +643,54 @@
       Uso
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
-<node CREATED="1578764445927" ID="ID_111702141" MODIFIED="1578764489633">
+<node CREATED="1578764445927" ID="ID_111702141" MODIFIED="1578954116440">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      abrevia&#231;&#227;o de textos
+      1. abrevia&#231;&#227;o de textos
     </p>
     <p style="text-align: center">
       repetidos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1578764461847" ID="ID_463152410" MODIFIED="1578764489634">
+<node CREATED="1578764461847" ID="ID_463152410" MODIFIED="1578954120521">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p style="text-align: center">
-      representa&#231;&#227;o de caracteres
+      2. representa&#231;&#227;o de caracteres
     </p>
     <p style="text-align: center">
       especiais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578764240999" ID="ID_787616131" MODIFIED="1578764707960">
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578764240999" ID="ID_787616131" MODIFIED="1578954131761">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      &#11013; Cria&#231;&#227;o da Entidade
+    <p style="text-align: center">
+      &#11013; Cria&#231;&#227;o da<br />&#160;&#160;Entidade
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578764247967" ID="ID_1420836995" MODIFIED="1578764298186">
 <richcontent TYPE="NODE"><html>
@@ -730,8 +702,7 @@
       &lt;!ENTITY MeuEmail &#8220;marcio@passei.com.br &#8221;&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font ITALIC="true" NAME="SansSerif" SIZE="10"/>
 </node>
@@ -748,24 +719,22 @@
       &quot;marcio@...&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578764327256" ID="ID_1650448415" MODIFIED="1578764707960">
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578764327256" ID="ID_1650448415" MODIFIED="1578954141496">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      &#11013; Uso da Entidade
+    <p style="text-align: center">
+      &#11013; Uso da<br />&#160;&#160;&#160;&#160;&#160;&#160;Entidade
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578764349639" ID="ID_1386127186" MODIFIED="1578764803637">
 <richcontent TYPE="NODE"><html>
@@ -783,20 +752,19 @@
       &lt;contato&gt; Marcio marcio@passei.com.br &lt;/contato&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578764492615" ID="ID_1286461958" MODIFIED="1578764791004">
+<node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578764492615" ID="ID_1286461958" MODIFIED="1579351639901">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      Entidade pr&#233;-definidas
+      Entidades pr&#233;-definidas
     </p>
     <ul>
       <li>
@@ -831,8 +799,7 @@
       Atributos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fefaa1" COLOR="#535353" CREATED="1578764983326" ID="ID_639412553" MODIFIED="1578765051225">
@@ -845,8 +812,7 @@
       Definidos dentro da tag
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#e9ef3a" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#fefaa1" COLOR="#535353" CREATED="1578765001222" ID="ID_993592231" MODIFIED="1578765051227">
@@ -859,8 +825,7 @@
       Informa&#231;&#227;o do conte&#250;do
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#e9ef3a" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578765010974" ID="ID_1896459969" MODIFIED="1578765051228">
 <richcontent TYPE="NODE"><html>
@@ -872,8 +837,7 @@
       METADADO
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -888,8 +852,7 @@
       &#11013; Ex
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#e9ef3a" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578765031318" ID="ID_4582654" MODIFIED="1578765051231">
 <richcontent TYPE="NODE"><html>
@@ -904,8 +867,7 @@
       &lt;carro <b>placa=&#8220;ABC-1234&#8221;</b>&gt;Maverick V8&lt;/carro&gt;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -927,8 +889,7 @@
       XML
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1578765228975" ID="ID_722635371" MODIFIED="1578765474846">
@@ -955,12 +916,11 @@
       </li>
     </ol>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1578765543086" ID="ID_1898835090" MODIFIED="1578765670307" POSITION="left">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1578765543086" HGAP="23" ID="ID_1898835090" MODIFIED="1578954211022" POSITION="left" VSHIFT="8">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -970,8 +930,7 @@
       Exemplo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1578765579931" ID="ID_206394907" MODIFIED="1578765754924">
@@ -1005,8 +964,7 @@
       <font size="2">8. &lt;/documento&gt;</font>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1578765643694" ID="ID_1665623658" MODIFIED="1578765674627">
@@ -1019,24 +977,36 @@
       Declara&#231;&#227;o XML (&lt;?xml ...&gt;)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
-<node CREATED="1578765775494" ID="ID_1140491662" MODIFIED="1578765954511">
+<node CREATED="1578765775494" ID="ID_1140491662" MODIFIED="1578954264879">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      in&#237;cio do documento XML e &#233;
+      in&#237;cio do documento XML
     </p>
+    <p>
+      e opcional
+    </p>
+  </body>
+</html></richcontent>
+<edge STYLE="linear" WIDTH="1"/>
+<font NAME="SansSerif" SIZE="10"/>
+</node>
+<node CREATED="1578954240275" ID="ID_451240772" MODIFIED="1578954246982">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
     <p>
       opcional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1056,8 +1026,7 @@
       atributo obrigat&#243;rio
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1077,8 +1046,7 @@
       atributo opcional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1107,8 +1075,7 @@
       &gt; Depois do encoding;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1123,8 +1090,7 @@
       DOCTYPE
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578766018398" ID="ID_1828282579" MODIFIED="1578766055754">
 <richcontent TYPE="NODE"><html>
@@ -1136,8 +1102,7 @@
       faz parte da DTD
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1151,14 +1116,13 @@
       n&#227;o &#233; obrigat&#243;ria
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#fefefe" COLOR="#9b01c1" CREATED="1578766263710" ID="ID_482773025" MODIFIED="1578766507751" POSITION="left">
+<node BACKGROUND_COLOR="#fefefe" COLOR="#9b01c1" CREATED="1578766263710" ID="ID_482773025" MODIFIED="1578954213469" POSITION="left" VSHIFT="16">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1168,8 +1132,7 @@
       Espa&#231;o em Branco
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578766308143" ID="ID_96009287" MODIFIED="1578766507752">
@@ -1182,8 +1145,7 @@
       Def.:
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578766330295" ID="ID_386152503" MODIFIED="1578766346275">
 <richcontent TYPE="NODE"><html>
@@ -1195,8 +1157,7 @@
       pr&#243;prio espa&#231;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1210,8 +1171,7 @@
       quebra de linha
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1225,8 +1185,7 @@
       caracter de tabula&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1244,8 +1203,7 @@
       espa&#231;os em brancos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578766358967" ID="ID_602780628" MODIFIED="1578766507753">
@@ -1258,8 +1216,7 @@
       xml:space
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <icon BUILTIN="messagebox_warning"/>
@@ -1276,8 +1233,7 @@
       controlar espa&#231;os
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -1297,8 +1253,7 @@
       &gt; preserve: preserva espa&#231;o em branco
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>

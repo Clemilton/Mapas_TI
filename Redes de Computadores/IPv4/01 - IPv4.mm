@@ -10,8 +10,7 @@
       IPv4
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#969696" WIDTH="2"/>
 <font BOLD="true" NAME="Roboto" SIZE="16"/>
 <node COLOR="#606060" CREATED="1578873857585" ID="ID_1561930705" MODIFIED="1578874095299" POSITION="right">
@@ -403,8 +402,7 @@
   <body>
     <img src="imgs/subredes.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1578876731752" ID="ID_1193724644" MODIFIED="1578880858409">
@@ -420,8 +418,7 @@
       tabelas de rotas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1578876836216" ID="ID_1888152657" MODIFIED="1578877126558">
@@ -513,8 +510,7 @@
       Benef&#237;cios Subredes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578881109140" ID="ID_443642544" MODIFIED="1578881267208">
@@ -530,8 +526,7 @@
       redes f&#237;sicas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578881134435" ID="ID_521386682" MODIFIED="1578881267215">
@@ -547,8 +542,7 @@
       vista de fora
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578881151748" ID="ID_1800806218" MODIFIED="1578881313167">
 <richcontent TYPE="NODE"><html>
@@ -563,8 +557,7 @@
       endere&#231;os subrede
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -578,8 +571,7 @@
       complexidade local arbitr&#225;ria
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -596,8 +588,7 @@
       &#160;tabelas globais
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -611,8 +602,7 @@
       mesma rota &#10145; rede externa &#10145;<br />sub-redes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -627,8 +617,7 @@
       Mistura de tecnologias
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578881340336" ID="ID_1961419701" MODIFIED="1578881361739">
 <richcontent TYPE="NODE"><html>
@@ -640,8 +629,7 @@
       Ex: ethernet e Token Ring
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -655,8 +643,7 @@
       na mesma rede Institucional
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -671,8 +658,7 @@
       melhor distribui&#231;&#227;o<br />do tr&#225;fego
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
 </node>
 </node>
@@ -686,8 +672,7 @@
       M&#225;scara de Sub-Rede
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1578881957298" ID="ID_901606250" MODIFIED="1578882055359">
@@ -709,8 +694,7 @@
       Mascara : 255.255.255.0 (130.5.5.25/<b>24</b>)
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578882023522" ID="ID_1839898512" MODIFIED="1578882055362">
 <richcontent TYPE="NODE"><html>
@@ -920,6 +904,43 @@
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
+</node>
+</node>
+<node CREATED="1579016340102" ID="ID_716865872" MODIFIED="1579016345535" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      IP m&#243;vel
+    </p>
+  </body>
+</html>
+</richcontent>
+<node CREATED="1579016346382" ID="ID_1387519189" MODIFIED="1579016350618">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+  </body>
+</html>
+</richcontent>
+<icon BUILTIN="help"/>
+</node>
+<node CREATED="1579016356894" ID="ID_1566365596" MODIFIED="1579016360005">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      1
+    </p>
+  </body>
+</html>
+</richcontent>
 </node>
 </node>
 </node>

@@ -261,8 +261,7 @@
       syncronized int soma(int a, int b) {...}
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -413,8 +412,7 @@
       separar o programa<br />em partes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578861549184" ID="ID_1192120409" MODIFIED="1578862092517">
 <richcontent TYPE="NODE"><html>
@@ -426,8 +424,7 @@
       o mais isolado poss&#237;vel
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -441,8 +438,7 @@
       torna o SW mais flex&#237;vel
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -459,8 +455,7 @@
       criar implementa&#231;&#245;es
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -476,8 +471,7 @@
       Modificadores de<br />Acesso
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1578861822602" ID="ID_1010533630" MODIFIED="1578862094291">
@@ -501,8 +495,7 @@
       public
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1578861964489" ID="ID_425523556" MODIFIED="1578862180935">
@@ -515,8 +508,7 @@
       acesso total
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -533,8 +525,7 @@
       lugar
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -549,8 +540,7 @@
       private
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578862118529" ID="ID_733990262" MODIFIED="1578862338086">
 <richcontent TYPE="NODE"><html>
@@ -565,8 +555,7 @@
       da classe
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -581,8 +570,7 @@
       protected
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578862202289" ID="ID_1506340007" MODIFIED="1578862338090">
 <richcontent TYPE="NODE"><html>
@@ -597,8 +585,7 @@
       pacote
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -613,8 +600,7 @@
       default
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578862266497" ID="ID_1377169163" MODIFIED="1578862338094">
 <richcontent TYPE="NODE"><html>
@@ -629,8 +615,7 @@
       <i>friendly</i>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -644,8 +629,7 @@
       dentro do mesmo pacote
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -661,8 +645,7 @@
       Interface
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#feeafe" COLOR="#535353" CREATED="1578862938659" ID="ID_486522330" MODIFIED="1578862985058">
@@ -675,8 +658,7 @@
       Implements
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#df00ff" STYLE="linear" WIDTH="thin"/>
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
@@ -690,8 +672,7 @@
       &quot;contrato&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#df00ff" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578862911355" ID="ID_46940221" MODIFIED="1578862985063">
 <richcontent TYPE="NODE"><html>
@@ -706,8 +687,7 @@
       &quot;assinam&quot;
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -721,11 +701,82 @@
       implementar os m&#233;todos
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
+</node>
+<node BACKGROUND_COLOR="#feeafe" COLOR="#535353" CREATED="1579211388102" ID="ID_1831878415" MODIFIED="1579533052256">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      100% abstrata
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#df00ff" STYLE="linear" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#4646ff" CREATED="1579210443288" ID="ID_353661089" MODIFIED="1579533057099" POSITION="left">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p style="text-align: center">
+      Classe abstrata
+    </p>
+  </body>
+</html></richcontent>
+<edge WIDTH="thin"/>
+<font BOLD="true" NAME="Roboto" SIZE="14"/>
+<node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1579210457404" ID="ID_438367702" MODIFIED="1579533057102">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      servem como &quot;modelo&quot; para
+    </p>
+    <p>
+      outras classes
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1579211324517" ID="ID_18990088" MODIFIED="1579533057103">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      N&#195;O PODE SER INSTACIADA
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
+</node>
+<node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1579211431880" ID="ID_1227119648" MODIFIED="1579533057105">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      pode ter m&#233;todos
+    </p>
+    <p>
+      concretos
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 </node>
 </node>
 <node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1578862992267" ID="ID_1557849706" MODIFIED="1578863133469" POSITION="left">
@@ -738,8 +789,7 @@
       Polimorfismo
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1578863092884" ID="ID_1377996161" MODIFIED="1578863133469">
@@ -752,8 +802,7 @@
       capacidade de um objeto
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="thin"/>
 <node CREATED="1578863109076" ID="ID_1932872087" MODIFIED="1578863131477">
 <richcontent TYPE="NODE"><html>
@@ -765,8 +814,7 @@
       comportar-se diversas formas
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -780,8 +828,7 @@
       conforme msg recebida
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -799,8 +846,7 @@
       Est&#225;tico
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1578863164076" ID="ID_1157325514" MODIFIED="1578863340936">
@@ -813,8 +859,7 @@
       mesmo nome
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -828,8 +873,7 @@
       assinaturas diferentes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -843,8 +887,7 @@
       sobrecarga/overloading
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -858,8 +901,7 @@
       tempo de compila&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -874,8 +916,7 @@
       Polimorfismo<br />Din&#226;mico
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#fe4f4f" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 <node CREATED="1578863254044" ID="ID_1077833300" MODIFIED="1578863340944">
@@ -888,8 +929,7 @@
       mesma assinatura e nomes
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -903,8 +943,7 @@
       m&#233;todo da <b>superclasse</b>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -918,8 +957,7 @@
       sobrescrita/overriding
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -933,8 +971,7 @@
       tempo de execu&#231;&#227;o
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>

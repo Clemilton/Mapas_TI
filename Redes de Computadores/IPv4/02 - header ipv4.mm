@@ -1,6 +1,6 @@
 <map version="0.9.0">
 <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
-<node BACKGROUND_COLOR="#606060" COLOR="#fefefe" CREATED="1578701401807" ID="ID_879180110" MODIFIED="1578701572151">
+<node BACKGROUND_COLOR="#606060" COLOR="#fefefe" CREATED="1578701401807" ID="ID_879180110" MODIFIED="1578930043717">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -37,8 +37,7 @@
   <body>
     <img src="imgs/header_ipv4.png" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 </node>
 </node>
@@ -166,8 +165,7 @@
       4 bits
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1578701778642" ID="ID_582794846" MODIFIED="1578703155643">
@@ -360,8 +358,7 @@
       8 bits
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#df00ff" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 </node>
@@ -572,8 +569,7 @@
       16 bits
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578704285124" ID="ID_1292012022" MODIFIED="1578704353438">
@@ -713,8 +709,7 @@
       8 bits
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#00ffff" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578704987631" ID="ID_975672068" MODIFIED="1578705133691">
@@ -891,8 +886,7 @@
       8 bits
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#df00ff" STYLE="linear" WIDTH="thin"/>
 </node>
 <node BACKGROUND_COLOR="#feeafe" COLOR="#535353" CREATED="1578705604107" HGAP="19" ID="ID_182639592" MODIFIED="1578705876186" VSHIFT="-10">

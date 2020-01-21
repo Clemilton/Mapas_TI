@@ -144,17 +144,18 @@
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 <font ITALIC="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1578169850885" ID="ID_1771915419" MODIFIED="1578170056191">
+<node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1578169850885" ID="ID_1771915419" MODIFIED="1579532759794">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      desen. sistemas corporativos
+      sist. corporativos
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
 <node CREATED="1578169870037" ID="ID_1963422808" MODIFIED="1578169961358">
@@ -202,20 +203,21 @@
 </html></richcontent>
 <edge COLOR="#4a4aff" STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="12"/>
-<node CREATED="1578170012845" ID="ID_1315163944" MODIFIED="1578170062941">
+<node CREATED="1578170012845" ID="ID_1315163944" MODIFIED="1579532788903">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
     <p>
-      bibliotecas para
+      bibliotecas p/
     </p>
     <p>
-      acesso a base de dados
+      acesso a bds
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="linear" WIDTH="thin"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -330,20 +332,21 @@
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
-<node CREATED="1578170168846" ID="ID_853243690" MODIFIED="1578170212080">
+<node CREATED="1578170168846" ID="ID_853243690" MODIFIED="1579532814104">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
+    <p style="text-align: center">
       executados com seguran&#231;a
     </p>
-    <p>
+    <p style="text-align: center">
       em smartcards
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
@@ -711,7 +714,7 @@
 </html></richcontent>
 <edge COLOR="#b000ff" STYLE="linear" WIDTH="thin"/>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578171238980" ID="ID_195093160" MODIFIED="1578171552746">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578171238980" HGAP="23" ID="ID_195093160" MODIFIED="1579532859701" VSHIFT="8">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -767,13 +770,12 @@
       .doc, .gif, etc...
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge STYLE="linear" WIDTH="1"/>
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578171295356" ID="ID_803393452" MODIFIED="1578171552756">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578171295356" HGAP="28" ID="ID_803393452" MODIFIED="1579532855061" VSHIFT="11">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -814,7 +816,7 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
-<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578171497117" ID="ID_1565118443" MODIFIED="1578171552758">
+<node BACKGROUND_COLOR="#f5d1fe" COLOR="#535353" CREATED="1578171497117" HGAP="26" ID="ID_1565118443" MODIFIED="1579532852270" VSHIFT="11">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -883,7 +885,7 @@
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="SansSerif" SIZE="12"/>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1578172678028" ID="ID_1478936282" MODIFIED="1578172935023">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#0e9302" CREATED="1578172678028" ID="ID_1478936282" MODIFIED="1579291388051">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -896,6 +898,7 @@
 </html></richcontent>
 <edge COLOR="#606060" STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
+<icon BUILTIN="messagebox_warning"/>
 <node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1578172154361" ID="ID_868750784" MODIFIED="1578173175886">
 <richcontent TYPE="NODE"><html>
   <head>
@@ -1138,8 +1141,34 @@
 <font NAME="SansSerif" SIZE="10"/>
 </node>
 </node>
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1579291458108" ID="ID_101560891" MODIFIED="1579291472246">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      char
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1578172977709" ID="ID_877217259" MODIFIED="1578172994298">
+<node BACKGROUND_COLOR="#ddfedd" COLOR="#535353" CREATED="1579291468404" ID="ID_1838452751" MODIFIED="1579291472247">
+<richcontent TYPE="NODE"><html>
+  <head>
+    
+  </head>
+  <body>
+    <p>
+      boolean
+    </p>
+  </body>
+</html></richcontent>
+<edge COLOR="#0e9302" STYLE="linear" WIDTH="thin"/>
+</node>
+</node>
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#f31515" CREATED="1578172977709" ID="ID_877217259" MODIFIED="1579532959232">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1153,7 +1182,7 @@
     </p>
   </body>
 </html></richcontent>
-<edge WIDTH="thin"/>
+<edge STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#fdc2c2" COLOR="#535353" CREATED="1578172467819" ID="ID_442574557" MODIFIED="1578173175890">
 <richcontent TYPE="NODE"><html>
@@ -1232,7 +1261,7 @@
 </node>
 </node>
 </node>
-<node COLOR="#4646ff" CREATED="1578173046206" ID="ID_217046096" MODIFIED="1578173108422">
+<node COLOR="#4646ff" CREATED="1578173046206" ID="ID_217046096" MODIFIED="1579532959232">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1243,7 +1272,7 @@
     </p>
   </body>
 </html></richcontent>
-<edge WIDTH="thin"/>
+<edge STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d6d6fe" COLOR="#535353" CREATED="1578171924104" ID="ID_1710470927" MODIFIED="1578173175891">
 <richcontent TYPE="NODE"><html>
@@ -1379,7 +1408,7 @@
 </node>
 </node>
 </node>
-<node BACKGROUND_COLOR="#eaeaea" COLOR="#2d6060" CREATED="1578173111902" ID="ID_1420139344" MODIFIED="1578173149887">
+<node BACKGROUND_COLOR="#eaeaea" COLOR="#2d6060" CREATED="1578173111902" ID="ID_1420139344" MODIFIED="1579532959232">
 <richcontent TYPE="NODE"><html>
   <head>
     
@@ -1390,7 +1419,7 @@
     </p>
   </body>
 </html></richcontent>
-<edge WIDTH="thin"/>
+<edge STYLE="linear" WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#d9ffff" COLOR="#535353" CREATED="1578172086745" ID="ID_849911055" MODIFIED="1578173175892">
 <richcontent TYPE="NODE"><html>
@@ -1650,17 +1679,18 @@
 </node>
 </node>
 </node>
-<node COLOR="#606060" CREATED="1578842264713" ID="ID_396444133" MODIFIED="1578842618899" POSITION="left">
+<node COLOR="#606060" CREATED="1578842264713" ID="ID_396444133" MODIFIED="1579532968978" POSITION="left">
 <richcontent TYPE="NODE"><html>
   <head>
     
   </head>
   <body>
-    <p>
-      Convers&#227;o de Tipos
+    <p style="text-align: center">
+      Convers&#227;o de<br />Tipos
     </p>
   </body>
-</html></richcontent>
+</html>
+</richcontent>
 <edge WIDTH="thin"/>
 <font BOLD="true" NAME="Roboto" SIZE="14"/>
 <node BACKGROUND_COLOR="#dcdcdc" COLOR="#535353" CREATED="1578842282337" ID="ID_407452079" MODIFIED="1578842618901">
